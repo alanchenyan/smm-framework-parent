@@ -11,7 +11,9 @@
 
     <groupId>com.github.alanchen</groupId>
     <artifactId>smm-framework-parent</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
+
+    <packaging>pom</packaging>
 
     <dependencies>
 
