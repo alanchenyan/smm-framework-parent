@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcaa52ae-c9a8-4181-9e67-4de0f75dd5e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -97,7 +96,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571034577070</updated>
-      <workItem from="1571034580437" duration="1366000" />
+      <workItem from="1571034580437" duration="1812000" />
+      <workItem from="1571388470359" duration="708000" />
+      <workItem from="1572587656972" duration="1354000" />
+      <workItem from="1573550650981" duration="598000" />
+      <workItem from="1576196252504" duration="493000" />
+      <workItem from="1578052150915" duration="714000" />
+      <workItem from="1581501208893" duration="629000" />
+      <workItem from="1581737849751" duration="432000" />
+      <workItem from="1582608528052" duration="111000" />
     </task>
     <servers />
   </component>
@@ -109,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
