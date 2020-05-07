@@ -11,7 +11,7 @@
 
     <groupId>com.github.alanchen</groupId>
     <artifactId>smm-framework-parent</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
 
     <packaging>pom</packaging>
 
@@ -122,6 +122,12 @@
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml-schemas</artifactId>
             <version>3.17</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.xmlbeans</groupId>
+            <artifactId>xmlbeans</artifactId>
+            <version>3.1.0</version>
         </dependency>
 
         <!--hutool start-->
