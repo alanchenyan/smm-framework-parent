@@ -11,7 +11,7 @@
 
     <groupId>com.github.alanchen</groupId>
     <artifactId>smm-framework-parent</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
 
     <packaging>pom</packaging>
 
@@ -137,7 +137,7 @@
             <version>3.1.0</version>
         </dependency>
 
-        <!--hutool start-->
+        <!--hutool end-->
 
         <dependency>
             <groupId>commons-io</groupId>
@@ -149,6 +149,24 @@
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
             <version>1.13</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+            <version>2.2.4.RELEASE</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.zxing</groupId>
+            <artifactId>core</artifactId>
+            <version>3.3.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.aliyun.oss</groupId>
+            <artifactId>aliyun-sdk-oss</artifactId>
+            <version>3.10.2</version>
         </dependency>
 
 
